@@ -33,6 +33,7 @@ A comprehensive, modular dashboard for machine learning visualization, model int
 ## 🏗️ Project Architecture
 
 ```bash
+
 Multipage-Dashboard/
 ├── main.py                 # App entry point & navigation
 ├── pages/                  # Modular page components
@@ -48,8 +49,11 @@ Multipage-Dashboard/
 ├── requirements.txt
 └── README.md
 
-🛠️ Installation & Setup
-------------------------
+```
+
+---
+
+## 🛠️ Installation & Setup
 
 ### Prerequisites
 
@@ -59,7 +63,7 @@ Multipage-Dashboard/
 
 ### Quick Start
 
-'''bash
+```
 
 # Clone repository
 git clone https://github.com/yourusername/multipage-dashboard.git
@@ -70,3 +74,23 @@ pip install -r requirements.txt  # or pipenv install
 
 # Launch application
 streamlit run main.py
+
+```
+---
+
+## Cloud Deployment
+
+- Push to GitHub repository
+- Sign in to Streamlit Cloud
+- Click "New App" → Select repo → Set main.py as entry point
+- Deploy! (Typically completes in 1-2 minutes)
+
+## 📚 Documentation
+
+### Usage Guide
+
+| 📄 Page           | 🔑 Key Functions                           |
+|------------------|-------------------------------------------|
+| **📊 Data Overview** | • 📤 File upload <br> • 📊 Data profiling <br> • ❓ Missing value analysis |
+| **🤖 Model Training** | • 🧠 Algorithm selection <br> • 🎚️ Parameter tuning <br> • 📈 Model evaluation |
+| **🔍 SHAP Analysis** | • 🌍 Global interpretation <br> • 🔎 Local interpretation <br> • 📉 Dependence plots |
