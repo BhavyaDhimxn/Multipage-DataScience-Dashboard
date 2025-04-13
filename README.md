@@ -1,9 +1,18 @@
 # 📊 Multi-Page Data Science Dashboard with Streamlit
 
+### Data Overview Page
 <img width="1438" alt="Image" src="https://github.com/user-attachments/assets/b5481a2a-74bf-4e63-be76-8a6e6e9a6ff1" />
+
+### Data Overview Page
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/32d9f04f-9d1f-4b0f-b7d8-815c3f93dc46" />
+
+### Model Training Page
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/216932bc-0d9f-4cf6-b77e-4c6da19c03da" />
+
+### Data & Model Drift Page
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/caf5df54-ae4e-4df5-8bef-112581a5dcbc" />
+
+### Explainable AI Page
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/489ae241-fec7-4277-8bae-4378c407c13f" />
 
 A comprehensive, modular dashboard for machine learning visualization, model interpretation, and data exploration built with Streamlit. Features SHAP analysis, interactive visualizations, and multi-page navigation.
