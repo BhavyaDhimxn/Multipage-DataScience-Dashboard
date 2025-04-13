@@ -1,6 +1,9 @@
 # 📊 Multi-Page Data Science Dashboard with Streamlit
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png)
+![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.42.37 PM.png)
+![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.42.49 PM.png)
+![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.43.05 PM.png)
+![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.43.18 PM.png)
 
 A comprehensive, modular dashboard for machine learning visualization, model interpretation, and data exploration built with Streamlit. Features SHAP analysis, interactive visualizations, and multi-page navigation.
 
@@ -94,3 +97,43 @@ streamlit run main.py
 | **📊 Data Overview** | • 📤 File upload <br> • 📊 Data profiling <br> • ❓ Missing value analysis |
 | **🤖 Model Training** | • 🧠 Algorithm selection <br> • 🎚️ Parameter tuning <br> • 📈 Model evaluation |
 | **🔍 SHAP Analysis** | • 🌍 Global interpretation <br> • 🔎 Local interpretation <br> • 📉 Dependence plots |
+
+---
+
+## 📦 Dependencies
+
+| 🗂️ Category      | 📦 Packages                           | ⚙️ Version       |
+|-----------------|---------------------------------------|-----------------|
+| **⚙️ Core**      | `streamlit`<br>`pandas`               | ≥1.12<br>≥1.4   |
+| **🧠 ML**        | `scikit-learn`<br>`xgboost`           | ≥1.0<br>≥1.6    |
+| **📊 Viz**       | `plotly`<br>`matplotlib`              | ≥5.8<br>≥3.5    |
+| **🔍 Interpretation** | `shap`<br>`lime`                  | ≥0.41<br>≥0.2   |
+
+📝 *Complete list in [requirements.txt](requirements.txt)*
+
+---
+
+## ✉️ Contact
+
+**Your Name**  
+📧 [bhavyadhiman2428@gmail.com](mailto:bhavyadhiman2428@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/bhavyadhiman24/)  
+🐙 [GitHub Profile](https://github.com/BhavyaDhimxn)  
+
+---
+
+## 🎯 Roadmap
+
+- [ ] **AutoML Integration**  
+  Add support for automated machine learning pipelines
+- [ ] **Time-Series Models**  
+  Implement ARIMA, Prophet, and LSTM support
+- [ ] **User Authentication**  
+  Secure login system with role-based access
+- [ ] **Docker Deployment**  
+  Containerized deployment solution
+- [ ] **Enhanced Monitoring**  
+  Model performance tracking dashboard
+
+[![Star on GitHub](https://img.shields.io/github/stars/BhavyaDhimxn/repo.svg?style=social&label=Star)](https://github.com/BhavyaDhimxn/Multipage-DataScience-Dashboard)  
+⭐ *Support this project by starring the repository!*
