@@ -1,9 +1,10 @@
 # 📊 Multi-Page Data Science Dashboard with Streamlit
 
-![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.42.37 PM.png)
-![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.42.49 PM.png)
-![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.43.05 PM.png)
-![Dashboard Screenshot](https://user-images.githubusercontent.com//Users/bhavyadhiman/Desktop/Screenshot 2025-04-13 at 6.43.18 PM.png)
+<img width="1438" alt="Image" src="https://github.com/user-attachments/assets/b5481a2a-74bf-4e63-be76-8a6e6e9a6ff1" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/32d9f04f-9d1f-4b0f-b7d8-815c3f93dc46" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/216932bc-0d9f-4cf6-b77e-4c6da19c03da" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/caf5df54-ae4e-4df5-8bef-112581a5dcbc" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/489ae241-fec7-4277-8bae-4378c407c13f" />
 
 A comprehensive, modular dashboard for machine learning visualization, model interpretation, and data exploration built with Streamlit. Features SHAP analysis, interactive visualizations, and multi-page navigation.
 
